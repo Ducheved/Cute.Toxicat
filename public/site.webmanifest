@@ -1,0 +1,20 @@
+{
+    "name": "ToxiCat",
+    "short_name": "ToxiCat",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#c3ffc9",
+    "background_color": "#c3ffc9",
+    "start_url": "https://toxicat.ru",
+    "display": "standalone"
+}
